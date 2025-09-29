@@ -1,4 +1,4 @@
-# Markov Chain Generator (University Assignment)
+# Markov Chain Generator
 
 This project was developed as part of my C/C++ Workshop course.
 It implements a generic Markov Chain in C, which learns from a given text corpus and generates new strings by building a chain of words and their successors.
